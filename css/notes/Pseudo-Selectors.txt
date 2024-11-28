@@ -1,0 +1,49 @@
+Pseudo Selectors are used to select an element based on state
+or position of the element
+There are two types of pseudo selectors i.e.,
+i.pseudo classes
+ii.pseudo elements
+	Pseudo elements uses double colon for its presence
+	1. ::first-line: first line is used to select the first line of the element
+	2. ::first-letter: first letter is used to select the first letter of the element
+	3. ::after: it is used to keep certain after the element 
+	4. ::before: it is used to place certain content before the element
+	5. ::placeholder: it is used to select the placeholder of input elements
+ Pseudo classes:
+these selectors uses single colon
+	1. :hover
+	2. :required
+	3. :optional
+	4. :active
+	5. :link
+	6. :visited
+	7. :disabled
+	8. :enabled
+	9. :read-only
+	10.:read-write
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

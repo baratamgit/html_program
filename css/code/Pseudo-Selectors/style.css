@@ -1,0 +1,89 @@
+.para::first-letter
+{
+    color: aquamarine;
+    font-size: 50px;
+}
+
+.para::first-line
+{
+    color: blueviolet;
+}
+
+.s  
+{
+    color: rgb(199, 177, 51);
+}
+ 
+.para::after
+{
+    content:"\2021";
+    font-size: 84px;
+    color: rgb(205, 128, 35);
+}
+
+input::placeholder
+{
+    color: rgb(65, 247, 10);
+}
+
+input
+{
+    color: darkgoldenrod;
+}
+
+#myDiv
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#myDiv:hover
+{
+    background-color: goldenrod;
+}
+
+input:required
+{
+    border: 1px solid forestgreen;
+}
+
+input:optional
+{
+    border: 1px solid orchid;
+}
+
+input:read-only
+{
+    background-color: rgb(199, 230, 199);
+}
+
+input:read-write
+{
+    background-color: rgb(167, 131, 99);
+}
+
+input:disabled
+{
+    border: 2px solid darkkhaki;
+}
+
+input:enabled
+{
+    background-color: cadetblue;
+}
+
+a:link
+{
+    color: darkolivegreen;
+}
+
+a:active
+{
+    color: darkblue;
+}
+
+a:visited
+{
+    color: deeppink;
+}

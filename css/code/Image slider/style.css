@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgba(11, 11, 11, 0.493);
+}
+
+h1
+{
+        color: rgb(252, 251, 251);
+        font-weight: bolder;
+        text-align: center;
+        text-decoration: solid 3px white underline;
+}
+
+.container
+{
+        margin: 100px 0 0 200px;
+         width: 70%;
+        height: 450px;
+        display: flex;
+        justify-content: center;
+        gap: 10PX;
+        box-sizing: border-box; 
+}
+
+.container img
+{
+width: 10%;
+height: 100%;
+object-fit: cover;
+border: 2px solid rgb(245, 245, 247);
+border-radius: 10px;
+transition: all ease-in-out 1s;
+}
+
+.container img:hover
+{
+width: 100%;
+}

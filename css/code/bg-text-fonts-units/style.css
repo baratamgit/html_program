@@ -1,0 +1,122 @@
+body{
+    height: 100vh;
+    background-image: url();
+     background:radial-gradient(orange,white,green,orange,white,green,orange
+    ,white,green,orange,white,green,orange,white,green,orange,white,green,orange
+    ,white,green,orange,white,green)
+    }
+/* .myHeading
+{
+    background-color: blue;
+} */
+
+/* .myHeading
+{
+    background-color: #be6b67;
+} */
+
+/* .myHeading
+{
+    background-color: rgb(232,232,234);
+} */
+
+/* .myHeading
+{
+    background-color: hsl(306, 23%, 34%);
+} */
+
+/* .myHeading
+{
+    background-color: rgba(132,232,234,0.5);
+} */
+
+/* .myHeading
+{
+    background-color: hsla(306, 23%, 34%);
+} */
+
+/* .myHeading
+{
+    background: linear-gradient(blue,rgb(232, 108, 108));
+} */
+
+/* body
+{
+    height: 100vh;
+    background: linear-gradient(rgb(229, 168, 54),rgb(230, 224, 224),rgb(59, 96, 59));
+} */
+/* 
+body
+{
+    height: 100vh;
+    background: radial-gradient(rgb(229, 168, 54),rgb(230, 224, 224),rgb(59, 96, 59));
+} */
+
+/* body
+{
+    height: 100vh;
+    background-image: url(./4_Image.jpg);
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap'); */
+
+/* body
+{
+    height: 100vh;
+    background-image: url('https://t3.ftcdn.net/jpg/05/84/65/40/360_F_584654097_iC7ONoJ9Z4V7DCO23Y3dy3aq1Idofegu.jpg');
+    background-color: rgb(red, green, blue);
+    font-family: 'Bokor', system-ui;
+    font-weight: 400;
+  font-style: oblique;
+  font-size: 10px;
+   text-align: center;
+   text-decoration:wavy;
+   text-decoration-line: underline;
+   text-transform: uppercase;
+   text-shadow: 5px 5px rgb(255, 255, 255);
+   text-decoration-color:rgb(203, 30, 30) ;
+    background-repeat: repeat-x;
+    background-position: top center;
+    background-size: contain;
+    opacity: 1.0;
+    color: aqua;
+} */
+
+/* px,em,rem,vh,vw,%*/
+/* .box{
+    background-color: aqua;
+    height: 2.5rem; -- 1 em = 1 time of parent font size1 rem = 16px 
+    width: 50vh;
+} */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+body
+{
+    background-image: url('https://t3.ftcdn.net/jpg/05/84/65/40/360_F_584654097_iC7ONoJ9Z4V7DCO23Y3dy3aq1Idofegu.jpg');
+    background-repeat: no-repeat;
+    font-family: "Bokor", system-ui;
+    font-weight: 50px;
+    font-style: oblique; 
+    font-size: 50px;
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: pink;
+    text-transform: capitalize;
+    text-shadow: 5px 5px rgb(239, 11, 98);
+    background-position: top center;
+    background-color: rgba(0,0,0,0.5);
+    color: aqua;
+    background-size: cover;
+    height: 10vh;
+    opacity: 0.7;
+} */
+
+/* px,em,rem,vh,vw,% */
+/* .box 
+{
+    background-color: aqua;
+    height: 2.5rem;
+    width: 50%;
+} */

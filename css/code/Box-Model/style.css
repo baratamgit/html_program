@@ -1,0 +1,50 @@
+.heading1
+{
+    width: fit-content;
+    border: 3px solid aqua;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    margin: 20px 30px 20px 5px;
+    padding: 20px 30px 20px 5px;
+}
+
+body
+{
+    background-color: mistyrose;
+    width: 100vw;
+}
+
+.box
+{
+    box-sizing: border-box;
+    
+    background-color: aqua;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 60px;
+    padding: 40px;
+}
+
+.box>img
+{
+    height: 200px;
+    padding: 40px;
+}
+
+.box2
+{
+    
+    width: 20vw;
+    background-color:blueviolet;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    border-radius: 60px;
+    padding: 40px;
+}
+
+.box2>img
+{
+    height: 200px;
+    padding: 40px;
+}

@@ -1,0 +1,43 @@
+/* h1
+{
+    background-color: khaki;
+    color: gold;
+}
+p
+{
+    color: firebrick;
+} */
+
+h1
+{
+    color:blue;
+}
+
+.srinivas
+{
+    color: black;
+}
+.shannu
+{
+    color: red;
+}
+
+.heading1
+{
+    color: red;
+}
+/* #srinu
+{
+    color: blueviolet;
+} */
+
+.myDiv h1
+{
+    background-color: black;
+}
+
+h1+p
+{
+    color: blueviolet;
+    background-color: burlywood;
+}

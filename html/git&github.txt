@@ -1,0 +1,42 @@
+Git: Git is a distributed Version Control System. It is an application by oracle which needs to be download and installed
+steps:
+  -- go to https://git-scm.com/downloads
+  -- select os and select 32/64bits standalone
+  -- go with next but check with default editor as vscode and install
+  we can also check version by going to cmd and type "git -v"
+
+  steps:
+  1. git init
+  2. git add .
+  3. git commit -m "message"
+  for first time users, 
+     git config --global user.name "githubUsername"
+     git config --global user.email "githubEmail"
+
+Till noe, local repository is created.
+we need one platform to save,share and run our code
+we have so many options like github,gitlab,bitbucket etc..,
+github is an online repository management system used to save,share and run our code 
+
+github commands:
+  -- git remote add origin 'link'
+  -- git push -u origin main
+
+Differnce between git and github?
+Git is a distributed version control system and github is online repository system
+Git needs to be downloaded and installed. Github needs an account.
+Git is provided by oracle. Github is provided by microsoft
+
+
+Git clone vs Git Fork:
+--------------------------
+There are two ways to copy a git repository
+  1. git clone: git clone is used to copy the original repository and create a new local repository
+  since it is a local repository, it will not have any
+  connection with original repository
+  git clone "link"
+
+  2. git fork: git fork is used to copy the original repository and create a new cloud repository
+  since it is cloud repository, it will show you whenever 
+  original repository updates
+  

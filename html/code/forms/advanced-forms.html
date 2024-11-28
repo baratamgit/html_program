@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- drop downs -->
+     <div>
+     <select name="vehicle" id="" required>
+        <option value="BMW">BMW</option>
+        <option value="Toyato">Toyato</option>
+        <option value="banz">banz</option>
+        <option value="nano">nano</option>
+     </select>
+     </div>
+     <!-- create a drop down of ENGG branches -->
+      <div>
+     <label for="brn">Choose a branch</label>
+     <select name="branch" id="brn" multiple>
+        <option value="">--select--</option>
+        <optgroup label="Engineering">
+        <option value="CSE">CSE</option>
+        <option value="EEE">EEE</option>
+        <option value="MECH">MECH</option>
+        <option value="CIVIL">CIVIL</option>
+        <option value="ECE">ECE</option>
+        <option value="AI/ML">AI/ML</option>
+        </optgroup>
+        <optgroup label="Degree">
+        <option value="BCA">BCA</option>
+        <option value="BBA">BBA</option>
+        <option value="B.Sc">B.Sc</option>
+        <option value="BCOM">BCOM</option>
+        </optgroup>
+     </select>
+     </div>
+     <!-- form validation -->
+     <form action="main.java">
+        <input type="text" name="un" id="un" placeholder="enter username" required><br><br>
+        <input type="email" name="em" id="em" placeholder="Enter email" required><br><br>
+        <input type="number" name="age" id="age" placeholder="Enter age" min="18" max="20" required><br><br>
+        <input type="password" name="pwd" id="pwd" placeholder="Enter password" minlength="8" required><br><br>
+        <!-- <input type="button" value="submit"> -->
+        <button>
+            submit
+        </button>
+       </form>
+</body>
+</html>

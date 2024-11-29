@@ -45,5 +45,3 @@ these selectors uses single colon
 
 
 
-
-

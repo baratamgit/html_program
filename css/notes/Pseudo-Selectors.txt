@@ -11,37 +11,22 @@ ii.pseudo elements
 	5. ::placeholder: it is used to select the placeholder of input elements
  Pseudo classes:
 these selectors uses single colon
-	1. :hover
-	2. :required
-	3. :optional
-	4. :active
-	5. :link
-	6. :visited
-	7. :disabled
-	8. :enabled
-	9. :read-only
-	10.:read-write
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	1. :hover: it is used to select an whenever we keep mouse over the element
+	2. :required: it is used to select an element when it is required
+	3. :optional: it is used to select an input element when it is not required
+	4. :active: it is used to select an anchor tag when it is active
+	5. :link:it is used to select a link in orginal state
+	6. :visited: it is used to select a link if it is already visited
+	7. :disabled: it is used to select an input element whei it is disabled
+	8. :enabled: it is used to select an input element whei it is not disabled
+	9. :read-only:it is used to select an input element whei it is read-only
+	10.:read-write: it is used to select an input element whei it is not read-write
+	11.:first child: it is used to select an element if it is first 
+	12.:last-child: it is used to select an element if it is the last
+	13.:nth-child(position): it is used to select an element based on its position number
+	14.:nth-last-child(position): it is used to select an element based on its position number from last
+	15.:nth-of-type(position): it is used to select an element based on its postion number and type of the
+					element
+	16::nth-of-last-type(position): it is used to select an element based on its postion number and type of the
+					element from the last 
+	17.:not(some tags or some class): it is used to select the element except certain element

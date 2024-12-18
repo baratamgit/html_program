@@ -1,0 +1,127 @@
+/* *
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} */
+
+/* #box
+{
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+     top: 50%; by default static 
+} */
+
+/* #box1
+{
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+    position: relative;
+    margin: 200px;
+    bottom: 200px;
+    right: 200px;
+} */
+
+body
+{
+    height: 100vh;
+}
+
+/* #box2
+{
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+    position: relative;
+    top: calc(100% - 100px);
+    left: calc(100% - 100px);
+    bottom: 0%;
+    right: 0%;
+} */
+
+/* #parent
+{
+    height: 200px;
+    width: 200px;
+    border: 1px solid fuchsia;
+} */
+
+/* #box3
+{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: seagreen;
+    margin-bottom: 20px;
+     top: 0;
+    left: 0; 
+    right: 50%;
+    bottom: 50%;
+} */
+
+#parent1
+{
+    height: 200px;
+    width: 200px;
+    border: 1px solid fuchsia;
+} 
+
+.box4
+{
+    height: 400px;
+    width: 100px;
+    background-color: seagreen;
+    color: chocolate;
+    font-size: 46px;
+    border: 1px solid rgb(67, 159, 81);
+}
+
+/* .box1
+{
+    position: absolute;
+    z-index: 94;
+}
+
+.box2
+{
+    position: absolute;
+    z-index: 5;
+}
+
+.box3
+{
+    position: absolute;
+    z-index: 61;
+}
+
+.box5
+{
+    position: absolute;
+    z-index: 9;
+}
+
+.box6
+{
+    position: absolute;
+    z-index: 8;
+} */
+
+/* .box3
+{
+    position: fixed;
+    height: 200px;
+    background-color: rgb(230, 31, 31);
+    top: 0;
+    width: 100vw;
+} */
+
+.box1
+{
+    position: sticky;
+    height: 100px;
+    background-color: darkolivegreen;
+    top: 0;
+    left: 0;
+}

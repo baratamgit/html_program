@@ -1,0 +1,26 @@
+Data Types are used to define the type of the data.Javascript is dynamically typed language(data type of a variable is not fixed). To find the type of a variable, we can use 'typeof' of operator
+eg: typeof a;
+There are two types of data types are there. they are:
+ i. primitve data types:
+    Primitive data types are the bsic data types that represents single values. They are:
+    a. number: number is the data type of any numerical value(interger or decimal)
+    Eg: let a=25;
+    let b=4.67;
+
+    b.string: string is the data type of alphanumerical values(includes numbers,special symbols,characters)
+    eg:let x="something";
+      let y="23";
+
+    c. boolean: boolean is used to store true or false. it is also represented true as 1 and false as 0
+     eg: let z=true;
+
+    d.undefined: represents accidental absence of value (or) value that has been declared but not have any value
+    eg: let p= undefined;
+
+    e. null: represents intentional absence of value
+    eg:let q=null;
+
+ ii. non primitive data types: non primitive data types holds multiple values with addresses. These are also called reference data types.
+    a. Arrays
+    b. objects
+    c. functions

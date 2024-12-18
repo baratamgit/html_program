@@ -1,0 +1,22 @@
+JAVASCRIPT:
+------------
+-- Basics:
+        introduction
+        Primitive data types
+        operators
+        functions
+        arrays
+        objects
+        control statements
+        loops
+-- DOM
+-- Async:
+        events
+        timers
+        API,AJAX
+        API 
+        promises
+        async await
+-- OOPS 
+-- BOM
+-- libraries

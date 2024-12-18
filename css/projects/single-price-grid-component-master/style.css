@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Manrope:wght@200..800&display=swap');
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: hsl(204, 43%, 93%);
+    height: 100vh;
+    width: 100vw;
+    font-family: "Karla", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainDiv
+{
+    height: 40vh;
+    width: 110vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.box
+{
+    
+}
+
+.box1
+{
+
+}

@@ -1,0 +1,81 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Agency_landing_page{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.main
+{
+    border: 1px solid red;
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:grid;
+    grid-template-columns: repeat(4,300px);
+}
+
+.box
+{
+    padding-left: 160%;
+    padding-right: 40%;
+}
+.orange-banner img
+{
+    height: 200px;
+    width: 500px;
+}
+
+.banner-text
+{
+    position:absolute;
+    top:0;
+    color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.banner-text
+{
+    display: flex;
+}
+
+.text2 p
+{
+    position: absolute;
+    right: 0;
+    font-size: 10px;
+    gap: 10px;
+}
+
+.text1 p
+{
+    position: absolute;
+    left: 85%;
+}
+
+.text5 p
+{
+    position: absolute;
+    left: 105%;
+}
+
+.text3
+{
+    position: absolute;
+    left: 140%;
+}
+
+.text4
+{
+    position: absolute;
+    left: 160%;
+}
+

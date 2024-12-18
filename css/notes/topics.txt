@@ -5,3 +5,7 @@ CSS
  -- float, display -inline,block,inline-block,none
  -- display - flex -flexboxfroggy
  -- display - grid - gridgarden
+ -- pseudo classes and element
+ -- Transitions and animations
+ -- position and z index
+ -- media queries
